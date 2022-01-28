@@ -218,6 +218,14 @@
   .rightNav {
     text-align: center;
   }
+  .rightNav input {
+    height: auto;
+    font-size: 4vw;
+  }
+  .rightNav .btn {
+    height: auto;
+    font-size: 4vw;
+  }
   .box-main {
     flex-direction: column-reverse;
     max-width: 100%;
